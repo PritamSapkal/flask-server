@@ -8,17 +8,17 @@ CORS(app)  # Enable CORS for all routes
 
 # Firebase JSON Key
 firebase_config = {
-    "type": "service_account",
-    "project_id": "potholes-tracker-6de66",
-    "private_key_id": "7fde427ccd64cea5009609b705e85446197cbcdd",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDA4rTSIVFWy16I\n7NeTzGAekDoah2pvx5SgKAPtyBqVmmcNMFj6A0ZQl3IHI2/PCF7LWS4S3Xn/Sj2f\nYVCYOkkkvyB5j3hpzll7iGPUDX5lAgPZY7I5p/R/UJXXp9jKRE98lhpan/N0xPka\n5UD3qbyfOTwLNhMQZnioQDo8FTlpuGMI30INJ/ig/6p+Cfi3vIiY9dx2H3RujAwJ\ndUyVqRtgeriwHTUAuhXFoH0/Up1GI7AN4alhg/PXCcIipmgkK6yl5o1ZpkytzqyE\n+VYKelLVZog7nNr9R1JSV5qo1GWHhHOCJu8Hu50uh1AzPXmaGiA7umSg2HtbiK4U\nOXSbmyX3AgMBAAECggEAFF5cYJbqyKhFMrRqt3gs66KotXB4tEEhLXXMTxSDKiqE\nmLHy/hkmbbrwbFc4/BCS4hUSy88zji/q00/Ve53RZ4iqB0GNTQRgvVjTzJV4NCEY\nWEvc4EB04z+WneVi+/O8E8NOGSUsR7fH49KIdR7UL67oQPl+3eEppgAnpidKSXg4\n8NPvY5xzEm9VA1q1UARv+f4AYVhbSy8WhKL2oMYxwiXNSkeMIrnQdBhuxaqv7H5r\nLUuHMQnYpEYKX8irusfX0Ows6yR2OHKXcY/NDsBIIS63ipxvnupHI1Y7vS7K3GAX\nn9opBM5gkXj5uImTucsdx1fs+AoYc2t2y/AaL8XSEQKBgQDjPu4Fefu0PmYyMDiN\nZTb4wOeXkRSqSLIqpX151VoNzbY6OQFJ1kdx2TUIg9sBKwrRCYO8uN34BcYoc86O\nljlH680FzSSxi+PgaSxH9NSxZiAGnyMBLwzE/IaZ/ygQyuOkheiL2VbwbHZEX57W\nzHW/SH8M3yJ/ux9Cs1pnrx8LQwKBgQDZSsK+YSrisnWu82YF5Ex/dBuYvVxkXddA\ntpmGNwS07lkYDCaB2wsF2nvGFVmQWTRBpQ2Jv91iAX/SYkIt0JhcXQgTZhVlF61+\n136vlwpDDejLZTzIcag9YCwh5uj4Kux3ff1/jeab8flaSh1IP7Cs6XPaXBIL/pGI\nsnbOY7e9PQKBgQDDqhKt+ntElhnOiwCWlpi/lPGT6qKdgFyQJdAlUBPrIL4P4bd/\nSRZZK8njHA09Mz9r/8JDg/XzsZ0OhbBLy4Nkrt7oaNt4WFgMiOJMzr04RhO7P9iX\nE1juX/TRsgZgdyGNLpOtnqSh/PHUK3ULxB56ZkSm45XD322qM93ausmDGwKBgBqM\nNsTZzEqMMTKhzDo2DV6ZCfIcWJhumqjuZk1ulWWhpUL54Q6Ge49IhUzLOPkY3PiU\nONY2mc6qjjpfBOTiEmtedmkgVMbYILtZisHbO0a8AVAwWz/GGx78jAfMVXRUkjV7\nMCiQZrdw1d1BJti351cI4r2v+Ah9HrzLyRYoOr+lAoGAMTl731FuVp6/qA4YVsz2\nvFxZbHveKFPJRxKI+do4SveiXF8x1GzH0brtwMm1hh7BZIs/kOQkK4azIYZnhCsm\nx7IQm743OqWST803JIorshwn5uftOTuD0nls59YMVnv0FRPOQheYKcsTbnjX4NMo\n/UNp0Du4zcGUaGJofxyGXtk=\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-fbsvc@potholes-tracker-6de66.iam.gserviceaccount.com",
-    "client_id": "114758203481956963523",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40potholes-tracker-6de66.iam.gserviceaccount.com",
-    "universe_domain": "googleapis.com"
+  "type": "service_account",
+  "project_id": "potholes-tracker-6de66",
+  "private_key_id": "b64c3a4c0aa82517b6e1cfd0113ccf4edee6a85f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDI7o12k7vRXKWf\nHJO6xzMT56V+97dCMmTr9pGNdCKI15bVDEcRu5YFD5Fx8Gqx8hweIpZh2qEcGdlL\nOwIvEkz48Oea6EMrWhun6Fv67GhgJENuvgur3wP8WBM7eH3Ur7ta54Z9PxuBc2ys\nhNKnkJMAqnaWIYpm1cgOK8HX9omXpcykk/7MciWYL04pmbZ4qaTVjEAAf2LrmwqX\nZ9d55Suki9UGUIB8B7U1ARoY8iRvSiYXJ96ZWQckyP202UDsWpkkwB6cIRod5jPI\nc6bOlINYjNTKKDZzq1SjUYnbkaxiyU+U4itK+/REGAbeBeQTyMFIyBDj7HRSf1d6\nyUKlAsKfAgMBAAECggEAAKi/sA7mA9bQ+EeouGkk4sDUyyjW4hG2QQvrCFLENjy2\n0vYaWZWK9XNKn9wRDYpkyziD08ha1PPEwbls1Wiy9fIcYGa4qbC+/HsHqjgSU5Zq\n3jcjZKnzomVLkttfVk5JSBAQYeLOHUuapKo+4qvXv53Pi8iKYrH62QkNtr6pTuUL\n3LNrn9SUG0lu/kiQn87n2qA6LlZUH5ttIcDD7NjcKUBdG6BKY0dECCGBXxVWs6ij\nweVypE5rZySP2htNFIPV1NfoIqEg+yQPzQmbETlEpDtbJbw1RsIMIyhpaF8eDizl\nRU2e5sqLG2UYK2s7j2el60loCMXnOEcJSe7WYX8JyQKBgQDpm39K0A8BZY2L7Pbq\nfwqwcgxoGdVZ6WHz4kZP/UFOkPiNGtr32LJ5cZg9+PVP4pq9i19fEijc9+AjThp5\nxEFxkxwxFePV66gsnR6bhpNE5u+gKUkvdCJA++d2ZKoJmNfty7TBdq4WW7KGt/vM\nn00zxdl/7KisUK+xCEPs0vGZOwKBgQDcMTprDgGUSJypkbOTkWY0DawhDVm1vIII\nNKh2Fn7xL4byM54AOJUpbjsD6F65KqQyU5N3fGYXpTZBMiwZiKU+kySMcH4HJkjQ\nR2y7tSZQ5k4q/oNUbxNShDr3JU/osP8jogN+xXxs3XC8Q1Pwl/SeQj8mx7YYwmYx\ny6xBLnFF7QKBgA2mBSDk2QuW2FdFiAOZWpGGiE0IvVtcdFmgbcU8obUqaSstV3/F\njF/mECQGyKZbMflDDFZspDCM1u6ZIJjeq4gsNSh1A/O6qf+5SlGB4lbTO0rbPqhk\nG6A6V4KmTPz0jiEZlrz65x7tSpfuZerFn+gXdiawOAahTDKGrhlHFdCDAoGAMCH6\nuSgopDdzN4YIETv5cWuDsv3uHFIGwrBwGtA0E5jmEM/DvByiTpowAFytSCDQH8gx\nNi9VSdntkDbdeP9rz8/ub1yvz/RIem8Cj827gHe3oqJcJvrY6HLLSPc5Do6SV0G1\nLeMRneKSIDU/hhpReL7Wey2w2py0JjJ1hxIV5MkCgYAybx4HqT4OHKwXjQo0sVz4\no7SmPRTBgFq13SdB9NDAAA9HyH62oz/8RwIkpZSUmCJjr80cPznp/n4CpzKg4MgG\nvW5UYzAn6SlpHkpUTeIfIDdcjW3aN2ZmWHmfZM9JDKyXF8DaIbA1tI+Uv3FYLdsY\nWu8ciabaY0D4ncVvZZH6Jw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@potholes-tracker-6de66.iam.gserviceaccount.com",
+  "client_id": "114758203481956963523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40potholes-tracker-6de66.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
 }
 
 cred = credentials.Certificate(firebase_config)
