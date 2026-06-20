@@ -6,6 +6,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
+
 # Firebase JSON Key
 firebase_config = {
   "type": "service_account",
